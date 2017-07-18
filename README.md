@@ -1,12 +1,28 @@
+**-------------------------------------------------------------------------------------------**
+
+**HOW TO SETUP THE ARCHIDUINO BOARDS ON ARDUINO IDE**
+
+#Archiduino folder
+
+- Close your Arduino IDE.
+- Create a subfolder named **archiduino** in your *c:\program folder\arduino\hardware* folder.
+- Create a subfolder named **avr** in your *c:\program folder\arduino\hardware\archiduino* folder.
+- Download this package.
+- Copy it in your *c:\program folder\arduino\hardware\archiduino\avr\* folder. 
+- Open Arduino IDE
+- You'll see the Archiduino boards in your board selection menu.
+- Choose proper board (Archiduino, Archiduino 1284, Archiduino 1284 BT, GuardUino32)
+- Go invent!
+
+**-------------------------------------------------------------------------------------------**
+
 **NEW RELEASE NOTES: 18/07/2017**
 
 1) Added GuardUino32 in boards.txt
 
 2) Some minor edit of RELAY1284.h
 
-3) Added Linear Technology's LinDuino libraries (useful testing ADC 24 bit with LTC2440)
-
-4) Added GuardUino32 library
+3) Added GuardUino32 library
 
 
 **NEW RELEASE NOTES: 27/03/2017**
@@ -36,18 +52,6 @@
   This was the previous config method, but everybody, everytime, forget to put it in setup routine, with hilarious (or potentially dramatic) effects.
 
 **-------------------------------------------------------------------------------------------**
-
-**HOW TO SETUP THE ARCHIDUINO 1284 BOARD ON ARDUINO IDE**
-
-#Archiduino folder
-
-- Close your Arduino IDE.
-- Download this package.
-- Copy it in your *c:\program folder\arduino\hardware* folder. 
-- Open Arduino IDE
-- You'll see the Archiduino boards in your board selection menu.
-- Choose proper board (Archiduino, Archiduino 1284, Archiduino 1284 BT)
-- Go invent!
 
 **-------------------------------------------------------------------------------------------**
 
