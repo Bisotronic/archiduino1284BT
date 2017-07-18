@@ -124,7 +124,7 @@ Archiduino is Open Hardware. You can find every schematic and infos clicking one
 
 Seletronica website: www.seletronica.com 
 
-Archiduino website: www.archiduino.com
+Archiduino website: www.archiduino.com (don't forget to visit our **shop**!)
 
 BisoTronic website: www.bisotronic.it
 
