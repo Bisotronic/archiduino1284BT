@@ -8,7 +8,8 @@
 - Create a subfolder named **archiduino** in your *c:\program folder\arduino\hardware* folder.
 - Create a subfolder named **avr** in your *c:\program folder\arduino\hardware\archiduino* folder.
 - Download this package.
-- Copy it in your **c:\program folder\arduino\hardware\archiduino\avr\** folder. 
+- Unzip the package, then open *archiduino1284BT-master* folder. 
+- Copy its content (all its content) it in your **c:\program folder\arduino\hardware\archiduino\avr\** folder. 
 - Open Arduino IDE
 - You'll see the Archiduino boards in your board selection menu.
 - Choose proper board (Archiduino, Archiduino 1284, Archiduino 1284 BT, GuardUino32)
