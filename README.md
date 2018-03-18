@@ -117,16 +117,16 @@ Archiduino has been engineered and designed to meet the needs of people working 
 
 Oh, man. No! Archiduino is born to be a reliable playfellow for everybody operating in the range from “rookie maker” to “Tenth-Dan master of electronics”. It uses the familiar Arduino language, easy and commonly known, and the easiest I/O logic of the Arduino environment in order to meet the hobbyist needs. But, at same time, it’s strong and well armored to be applied on such battle field like industrial environments. In other words: **USE IT everywhere you want, it’s great, it’s reliable, it’s sturdy and easy to use.** *What else, guy?*
 
-**About us**
+## **About us**
 
-Archiduino has been designed and built in Italy by Seletronica s.a.s. Currrently it's managed by Bisotronic.
+Archiduino has been **designed and built in Italy** by Seletronica s.a.s. Currrently it's managed by **Bisotronic**.
 Archiduino is Open Hardware. You can find every schematic and infos clicking one of following links:
 
-Archiduino website: www.archiduino.com (english only)
+**Archiduino website**: www.archiduino.com (english only)
 
-Archiduino shop: http://www.archiduino.com/shop/ (english only)
+**Archiduino shop**: http://www.archiduino.com/shop/ (english only)
 
-BisoTronic website: www.bisotronic.it (italian and occasionally english)
+**BisoTronic website**: www.bisotronic.it (italian and occasionally english)
 
 **License**
 
