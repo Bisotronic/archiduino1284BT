@@ -56,7 +56,7 @@
 
 **-------------------------------------------------------------------------------------------**
 
-**##What the FAQ is Archiduino?##**
+# **What the FAQ is Archiduino?**
 
 To quickly get an idea of what is Archiduino, what can it do for you and how it can improve your life, we think the best way is a list of FAQ (frequently asked questions) and related answers. Our FAQs are presented as a dialogue, as if you were here talking to us. Some of them may look a little basic, but we do believe that everyone has the right to learn. Don’t you?
 
