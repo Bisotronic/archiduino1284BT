@@ -119,17 +119,17 @@ Oh, man. No! Archiduino is born to be a reliable playfellow for everybody operat
 
 **About us**
 
-Archiduino has been designed and built in Italy by Seletronica s.a.s.
+Archiduino has been designed and built in Italy by Seletronica s.a.s. Currrently it's managed by Bisotronic.
 Archiduino is Open Hardware. You can find every schematic and infos clicking one of following links:
 
-Seletronica website: www.seletronica.com 
+Archiduino website: www.archiduino.com (english only)
 
-Archiduino website: www.archiduino.com (don't forget to visit our **shop**!)
+Archiduino shop: http://www.archiduino.com/shop/ (english only)
 
-BisoTronic website: www.bisotronic.it
+BisoTronic website: www.bisotronic.it (italian and occasionally english)
 
 **License**
 
-This repository is released under the Creative Commons ShareAlike 4.0 International license. You are welcome to use this code for commercial purposes. If you'll build your own Archiduino and/or you'll improve our (poor) code, please let us know writing your thoughts here: info 'at' seletronica 'dot' com. We just started learning! 
+This repository is released under the Creative Commons ShareAlike 4.0 International license. You are welcome to use this code for commercial purposes. If you'll build your own Archiduino and/or you'll improve our (poor) code, please let us know writing your thoughts here: info 'at' archiduino 'dot' com. We just started learning! 
 
 Please consider contributing back to this repository or others to help the open-source hardware community continue to thrive and grow!
